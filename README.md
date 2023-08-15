@@ -2,5 +2,5 @@
 
 Currently at Day 1 and it's going great! c:
 
-Check out the projects I did so far: 
--
+### My Projects: 
+[IN PROGRESS] Pixel Art Generator
