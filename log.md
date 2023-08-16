@@ -9,3 +9,9 @@
 **Today's Progress:** Worked on the wrapper styles today
 
 **Thoughts:** Learnt a lot about CSS styling today as well as how things are organised in these files usually
+
+# Day 3 - August 16, 2023
+
+**Today's Progress:** Created the index.js file, my very first 
+
+**Thoughts:** Couldn't dive deep into the function and logic, as I wasn't feeling well - hope to catch up tomorrow :c
