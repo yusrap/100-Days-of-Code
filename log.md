@@ -15,3 +15,15 @@
 **Today's Progress:** Created the index.js file, my very first 
 
 **Thoughts:** Couldn't dive deep into the function and logic, as I wasn't feeling well - hope to catch up tomorrow :c
+
+# Day 4-5 - August 17-18, 2023
+
+**Today's Progress:** Not much :( Too hectic days
+
+**Thoughts:** Need to do better time management aaaa
+
+# Day 6 - August 19, 2023
+
+**Today's Progress:** Project done doneee, modfiied the palette and fixed JS code
+
+**Thoughts:** Again need to dive deeper in the JS logic so aim to do more projects!
