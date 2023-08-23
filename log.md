@@ -27,3 +27,9 @@
 **Today's Progress:** Project done doneee, modfiied the palette and fixed JS code
 
 **Thoughts:** Again need to dive deeper in the JS logic so aim to do more projects!
+
+# Day 7-9 - August 20-23, 2023
+
+**Today's Progress:** not much done as side project but working on my final year project which revolves around LSTM models for time-series prediction, how to normalise features, split into training/testing set, train the model and so on
+
+**Thoughts:** should get back to a new side project as from tomorrow!
